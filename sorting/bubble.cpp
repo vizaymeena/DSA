@@ -1,7 +1,7 @@
 /*
 BUBBLE SORT
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process repeats until the list is sorted.
-
+*/
 
 #include <iostream>
 using namespace std;
@@ -43,7 +43,7 @@ int main() {
     return 0;
 }
 
-
+/*
 
 
 NOTE :: for (int i = 0; i < n - 1; i++)

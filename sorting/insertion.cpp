@@ -1,7 +1,7 @@
 /* Insertion Sort */
 // Insertion Sort is a simple and efficient sorting algorithm that works similarly to how we sort playing cards in our hands. It builds the sorted array one element at a time by picking an element and placing it in its correct position. //
 
-/* 
+
 
 #include <iostream>
 using namespace std;
@@ -42,4 +42,4 @@ int main() {
 }
 
 
-*/
+
